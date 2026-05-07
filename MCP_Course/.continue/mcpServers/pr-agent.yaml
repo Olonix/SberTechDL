@@ -1,0 +1,12 @@
+name: PR Agent Server
+version: 0.0.1
+schema: v1
+mcpServers:
+  - name: pr-agent
+    type: stdio
+    command: uv
+    args:
+      - --directory
+      - D:/SBT_Study/SberTechDL/MCP_Course/Unit_3/mcp-course/projects/unit3/slack-notification/starter
+      - run
+      - server.py

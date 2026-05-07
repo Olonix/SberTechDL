@@ -1,0 +1,1 @@
+[   35582ms] [ERROR] Failed to load module script: Expected a JavaScript-or-Wasm module script but the server responded with a MIME type of "text/css". Strict MIME type checking is enforced for module scripts per HTML spec. @ https://huggingface.co/docs/inference-providers/main/en/_app/immutable/assets/0.e3b0c442.css:0

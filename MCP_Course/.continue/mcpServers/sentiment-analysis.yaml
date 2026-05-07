@@ -1,0 +1,7 @@
+name: sentiment-analysis
+version: 0.0.1
+schema: v1
+mcpServers:
+  - name: sentiment-analysis
+    type: sse
+    url: https://olonix-mcp-sentiment.hf.space/gradio_api/mcp/sse

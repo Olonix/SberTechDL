@@ -1,0 +1,7 @@
+name: hf-mcp-server
+version: 0.0.1
+schema: v1
+mcpServers:
+  - name: hf-mcp-server
+    type: streamable-http
+    url: https://huggingface.co/mcp

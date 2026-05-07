@@ -1,0 +1,12 @@
+name: Ollama Phi model
+version: 0.0.1
+schema: v1
+models:
+  - provider: ollama
+    model: phi3:mini
+    defaultCompletionOptions:
+      contextLength: 8192
+    name: Ollama Phi-3 Mini
+    roles:
+      - chat
+      - edit
