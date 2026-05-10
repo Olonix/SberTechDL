@@ -1,3 +1,6 @@
 venv/
+.venv/
 .gradio/
 .env
+__pycache__
+Agents_Course/Unit_2/2_llamaindex/data
